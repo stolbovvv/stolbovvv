@@ -39,12 +39,6 @@ Experienced in modern frontend technologies and working on real-world products f
 
 ---
 
-## 📊 GitHub Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stolbovvv&show_icons=true&theme=radical)](https://github.com/stolbovvv/github-readme-stats)
-
----
-
 ### 📫 Contact Me
 
 - **LinkedIn:** [linkedin.com/in/stolbovvv](https://www.linkedin.com/in/stolbovvv)
