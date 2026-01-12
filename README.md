@@ -39,31 +39,17 @@ Experienced in modern frontend technologies and working on real-world products f
 
 ---
 
-<!-- 
-### 🚀 Featured Projects
+## 📊 GitHub Stats
 
-**Project Name**  
-Brief description of what the project does and technologies used.  
-[Live Demo](#) | [Source Code](#)
+<div align="center">
 
-**Project Name**  
-Brief description of what the project does and technologies used.  
-[Live Demo](#) | [Source Code](#)
+![](https://github-readme-stats.vercel.app/api?username=stolbovvv&show_icons=true&theme=tokyonight&hide_border=false&count_private=true)
 
-**Project Name**  
-Brief description of what the project does and technologies used.  
-[Live Demo](#) | [Source Code](#)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=stolbovvv&layout=compact&theme=tokyonight&hide_border=false)
 
----
--->
+![](https://github-readme-streak-stats.herokuapp.com/?user=stolbovvv&theme=tokyonight&hide_border=false)
 
-### 📊 GitHub Stats
-
-![Valerii's GitHub Stats](https://github-readme-stats.vercel.app/api?username=stolbovvv&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stolbovvv&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=stolbovvv&theme=radical&hide_border=true)
+</div>
 
 ---
 
